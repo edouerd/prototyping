@@ -1,5 +1,7 @@
-Prototyping
+Axure
 
 —
 
-Probably collecting any code-based prototypes I make in the future here. This blurb will be edited at an appropriate time.
+It's not the greatest, but it serves a purpose (sometimes).
+
+Older projects will probably be archived here.
