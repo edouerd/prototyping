@@ -1,5 +1,11 @@
-Prototyping
+Framer
 
 —
 
-Probably collecting any code-based prototypes I make in the future here. This blurb will be edited at an appropriate time.
+Projects
+
+1. Something will go here.
+
+—
+
+Framer is my prototyping tool of choice at the moment. It's great!
