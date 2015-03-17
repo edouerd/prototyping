@@ -1,5 +1,5 @@
-Prototyping
+Processing
 
 —
 
-Probably collecting any code-based prototypes I make in the future here. This blurb will be edited at an appropriate time.
+I don't do a lot with processing, but there's a lot of cool tools built with it. I'm collecting some here.
