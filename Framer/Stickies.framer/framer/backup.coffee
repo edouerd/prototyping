@@ -2,10 +2,12 @@ bg = new Layer width:640, height:1136, backgroundColor:'#FFFFFF'
 
 SS = Framer.Importer.load "imported/Fstickies"
 
+SS.Masthead.shadowColor = "rgba(0, 0, 0, 0.30)"
+
 # —————————————————————————————————————————— Sticky Note States/Attribtues/Animation
 
 ## Defaults
-SS.Sticky.shadowColor = "rgba(0, 0, 0, 0.30)"
+SS.Sticky.shadowColor = "rgba(0, 0, 0, 0.5)"
 ## States
 SS.Sticky.states.add
 	tapped:
@@ -112,6 +114,84 @@ SS.ShapeSelectionTray.states.add
 ## Animation
 SS.ShapeSelectionTray.states.animationOptions =
 	curve: "spring(1000,80,10)"
+	
+# —————————————————————————————————————————— Cross States/Attribtues/Animation
+
+## States
+SS.Cross.states.add
+	exit:
+		rotationZ: -45
+	pressed:
+		scale: .8
+## Animation	
+SS.Cross.states.animationOptions =
+	curve: "spring(800,80,10)"
+	
+# —————————————————————————————————————————— First Screen States/Attribtues/Animation
+
+## States
+SS.FirstScreen.states.add
+	dispelled:
+		x: -640
+	summoned:
+		x: 0
+## Animation	
+SS.FirstScreen.states.animationOptions =
+	curve: "spring(1000,80,10)"
+	
+# —————————————————————————————————————————— Second Screen States/Attribtues/Animation
+
+## States
+SS.SecondScreen.states.add
+	summoned:
+		x: 0
+## Animation	
+SS.SecondScreen.states.animationOptions =
+	curve: "spring(1000,80,10)"
+	
+# —————————————————————————————————————————— First Screen Button States/Attribtues/Animation
+
+## States
+SS.BoardOne.states.add
+	pressed:
+		scale: .95		
+## Animation	
+SS.BoardOne.states.animationOptions =
+	curve: "spring(800,80,10)"
+	
+## —————————————————————————————————————————— First Screen Interactions
+
+## First Screen	
+SS.BoardOne.on Events.TouchStart, ->
+	SS.BoardOne.states.switch("pressed")
+SS.BoardOne.on Events.TouchEnd, ->
+	SS.FirstScreen.states.switch("dispelled")
+	SS.BoardOne.states.switch("default")
+	SS.SecondScreen.states.switch("summoned")
+	SS.Cross.states.switch("exit")
+## Second Screen
+SS.Cross.on Events.TouchStart, ->
+	SS.Cross.states.switch("pressed")
+SS.Cross.on Events.TouchEnd, ->
+	SS.FirstScreen.states.switch("default")
+	SS.SecondScreen.states.switch("default")
+	SS.Cross.states.switch("default")
+SS.Sticky.on Events.TouchEnd, ->
+	SS.Sticky.states.switch("summoned")
+	SS.Keyboard.states.switch("summoned")
+	SS.Editable.states.switch("summoned")
+	SS.ToolTray.states.switch("dispelled")
+	SS.SelectionTray.states.switch("dispelled")
+	SS.Masthead.states.switch("dispelled")
+SS.Return.on Events.TouchStart, ->
+	SS.Sticky.states.switch("prepped")
+SS.Return.on Events.TouchEnd, ->
+	SS.Sticky.states.switch("send")
+	SS.Keyboard.states.switch("default")
+	SS.Masthead.states.switch("default")
+	SS.ToolTray.states.switch("default")
+	SS.SelectionTray.states.switch("default")
+	SS.Editable.states.switch("default")
 
 ## —————————————————————————————————————————— Sticky Note Interactions
 	
@@ -153,6 +233,9 @@ SS.StickyColor.on Events.TouchEnd, ->
 	SS.StickyColor.states.switch("default")
 	SS.SelectionTray.states.switch("default")
 	SS.ShapeSelectionTray.states.switch("default")
+# ———————— Color Buttons
+SS.BlueColor.on Events.TouchStart, ->
+	
 # Sticky Note Shape
 SS.StickyShape.on Events.TouchStart, ->
 	SS.StickyShape.states.switch("ontap")
