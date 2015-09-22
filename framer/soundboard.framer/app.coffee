@@ -49,12 +49,10 @@ board.red.on Events.MouseDown, ->
 	board.red.animate
 		properties:
 			scale: 1.1
-			rotation: 0
 		curve: "spring(800,45,20)"
 board.red.on Events.MouseUp, ->
 	toot.play()
 	board.red.animate
 		properties:
 			scale: 1
-			rotation: 0
 		curve: "spring(1000,25,20)"
