@@ -10,6 +10,8 @@ boop = new UISound("sounds/boop.mp3")
 beep = new UISound("sounds/beep.mp3")
 upstairs = new UISound("sounds/upstairs.mp3")
 downstairs = new UISound("sounds/downstairs.mp3")
+tweet = new UISound("sounds/tweet.mp3")
+toot = new UISound("sounds/toot.mp3")
 
 # Yellow Button
 board.yellow.on Events.MouseDown, ->
@@ -36,6 +38,22 @@ board.blue.on Events.MouseDown, ->
 board.blue.on Events.MouseUp, ->
 	downstairs.play()
 	board.blue.animate
+		properties:
+			scale: 1
+			rotation: 0
+		curve: "spring(1000,25,20)"
+		
+# Red Button
+board.red.on Events.MouseDown, ->
+	tweet.play()
+	board.red.animate
+		properties:
+			scale: 1.1
+			rotation: 0
+		curve: "spring(800,45,20)"
+board.red.on Events.MouseUp, ->
+	toot.play()
+	board.red.animate
 		properties:
 			scale: 1
 			rotation: 0
