@@ -2,18 +2,42 @@ Prototyping
 
 —
 
-1. 3d — 3d printing, .stl, etc.
-2. Arduino — hardware hacking
-3. Axure — vertical interaction prototyping, user flows
-4. Framer — horizontal interaction prototyping, microinteractions
-5. Processing — cool tools
-6. *tba* — always be prototyping
+Index
+
+1. [3d](#3d) — 3d printing, .stl, etc.
+2. [Arduino](#arduino) — hardware hacking
+3. [Axure](#axure) — vertical interaction prototyping, user flows
+4. [Framer](#framer) — horizontal interaction prototyping, microinteractions
+5. [Processing](#processing) — cool tools
+6. TBA; always be prototyping
 
 —
 
 This is my little digital studio. I keep tools, interesting snippets, tests, stabs, sucesses, and failures here. 
 
 Feel free to remix, steal, build on, and share whatever is here.
+
+—
+
+##### 3D
+
+1. TBA
+
+##### Arduino
+
+1. TBA
+
+##### Axure
+
+1. TBA
+
+##### Framer
+
+1. [Soundboard](http://labs.edouard.us/prototyping/framer/soundboard.framer/index.html) (iPhone 6)
+
+##### Processing
+
+1. TBA
 
 —
 
