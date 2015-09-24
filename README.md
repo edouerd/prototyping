@@ -34,6 +34,7 @@ Feel free to remix, steal, build on, and share whatever is here.
 ##### Framer
 
 1. [Soundboard](http://labs.edouard.us/prototyping/framer/soundboard.framer/index.html) (iPhone 6)
+2. [IBM Community Radio Mobile Player](http://labs.edouard.us/prototyping/framer/mobile-radio.framer/index.html) (iPhone 6 Plus)
 
 ##### Processing
 
