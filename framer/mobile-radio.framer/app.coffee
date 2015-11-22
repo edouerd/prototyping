@@ -1,3 +1,6 @@
+# Set device background 
+Framer.Device.background.backgroundColor = "#FBE8D9"
+
 # .sketch file
 radio = Framer.Importer.load "imported/f-radio-phone"
 
