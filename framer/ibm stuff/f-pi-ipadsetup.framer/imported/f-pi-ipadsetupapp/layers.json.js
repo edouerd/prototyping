@@ -1,0 +1,250 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["f-pi-ipadsetupapp/layers.json.js"] = [
+  {
+    "maskFrame" : null,
+    "id" : "5CDE12E0-CC2C-4798-BF91-F9EAE2A2E2B4",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "9AB5E2B2-FE83-4DB0-A132-381DC77447C2",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/masthead-9AB5E2B2-FE83-4DB0-A132-381DC77447C2.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 1024,
+            "height" : 255
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 1024,
+          "height" : 255
+        },
+        "name" : "masthead"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "2DB17B5C-3975-4FB0-B69D-A29A53530806",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/appbg-2DB17B5C-3975-4FB0-B69D-A29A53530806.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 1024,
+            "height" : 768
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 1024,
+          "height" : 768
+        },
+        "name" : "appbg"
+      }
+    ],
+    "image" : {
+      "path" : "images\/homescreen-5CDE12E0-CC2C-4798-BF91-F9EAE2A2E2B4.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 1024,
+        "height" : 768
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 1024,
+      "height" : 768
+    },
+    "name" : "homescreen"
+  },
+  {
+    "maskFrame" : null,
+    "id" : "5CCC6F21-8532-4381-9D7F-4A2E3C5B0143",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "E09F1B81-8448-4055-B3BB-D79E9FDEE8E6",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Group-E09F1B81-8448-4055-B3BB-D79E9FDEE8E6.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 1024,
+            "width" : 1024,
+            "height" : 154
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 1024,
+          "width" : 1024,
+          "height" : 154
+        },
+        "name" : "Group"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "DFD0473E-5E0B-4ED9-80A0-EF1D9D06EB72",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/mapview-DFD0473E-5E0B-4ED9-80A0-EF1D9D06EB72.png",
+          "frame" : {
+            "y" : 171,
+            "x" : 1287,
+            "width" : 499,
+            "height" : 427
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 171,
+          "x" : 1287,
+          "width" : 499,
+          "height" : 427
+        },
+        "name" : "mapview"
+      }
+    ],
+    "image" : {
+      "path" : "images\/mapscreen-5CCC6F21-8532-4381-9D7F-4A2E3C5B0143.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 1024,
+        "width" : 1024,
+        "height" : 768
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 1024,
+      "width" : 1024,
+      "height" : 768
+    },
+    "name" : "mapscreen"
+  },
+  {
+    "maskFrame" : null,
+    "id" : "84A2EA86-B0A2-4546-BC22-B0FD0003CC4D",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "70B986AB-5F96-467F-A501-640F0EF4B670",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/addsensor-70B986AB-5F96-467F-A501-640F0EF4B670.png",
+          "frame" : {
+            "y" : 805,
+            "x" : 150,
+            "width" : 75,
+            "height" : 76
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 805,
+          "x" : 150,
+          "width" : 75,
+          "height" : 76
+        },
+        "name" : "addsensor"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "DBC7A8B7-A34A-4935-969C-FE1AA48EBE3D",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/addbeacon-DBC7A8B7-A34A-4935-969C-FE1AA48EBE3D.png",
+          "frame" : {
+            "y" : 805,
+            "x" : 37,
+            "width" : 76,
+            "height" : 76
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 805,
+          "x" : 37,
+          "width" : 76,
+          "height" : 76
+        },
+        "name" : "addbeacon"
+      }
+    ],
+    "image" : {
+      "path" : "images\/toolbar-84A2EA86-B0A2-4546-BC22-B0FD0003CC4D.png",
+      "frame" : {
+        "y" : 768,
+        "x" : 0,
+        "width" : 1024,
+        "height" : 150
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 768,
+      "x" : 0,
+      "width" : 1024,
+      "height" : 150
+    },
+    "name" : "toolbar"
+  },
+  {
+    "maskFrame" : null,
+    "id" : "25DA5D20-CDF4-4B73-9574-DB6F0433D249",
+    "visible" : true,
+    "children" : [
+
+    ],
+    "image" : {
+      "path" : "images\/green-25DA5D20-CDF4-4B73-9574-DB6F0433D249.png",
+      "frame" : {
+        "y" : 59,
+        "x" : 100,
+        "width" : 262,
+        "height" : 262
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 59,
+      "x" : 100,
+      "width" : 262,
+      "height" : 262
+    },
+    "name" : "green"
+  }
+]

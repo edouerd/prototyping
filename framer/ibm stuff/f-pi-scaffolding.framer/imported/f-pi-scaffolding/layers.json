@@ -1,0 +1,1003 @@
+[
+  {
+    "maskFrame" : null,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "children" : [
+          {
+            "maskFrame" : null,
+            "id" : "3C47B900-ACB0-4C87-976E-BD3AB704B722",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/Layer-border-3C47B900-ACB0-4C87-976E-BD3AB704B722.png",
+              "frame" : {
+                "y" : 28,
+                "x" : 220,
+                "width" : 1000,
+                "height" : 844
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 28,
+              "x" : 220,
+              "width" : 1000,
+              "height" : 844
+            },
+            "name" : "border"
+          },
+          {
+            "maskFrame" : null,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "A018DBE4-BBBF-4672-AA85-19B9C3650E53",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "8DDA3B45-6911-4B55-A5F8-D6378DDBB3D4",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-pinanalytic-8DDA3B45-6911-4B55-A5F8-D6378DDBB3D4.png",
+                      "frame" : {
+                        "y" : 71,
+                        "x" : 1155,
+                        "width" : 15,
+                        "height" : 15
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 71,
+                      "x" : 1155,
+                      "width" : 15,
+                      "height" : 15
+                    },
+                    "name" : "pinanalytic"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-datacontext_copy-A018DBE4-BBBF-4672-AA85-19B9C3650E53.png",
+                  "frame" : {
+                    "y" : 68,
+                    "x" : 270,
+                    "width" : 900,
+                    "height" : 20
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 68,
+                  "x" : 270,
+                  "width" : 900,
+                  "height" : 20
+                },
+                "name" : "datacontext_copy"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "4E3121AD-B805-4C98-B017-129F22B3E9C5",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-background_copy-4E3121AD-B805-4C98-B017-129F22B3E9C5.png",
+                  "frame" : {
+                    "y" : 28,
+                    "x" : 220,
+                    "width" : 1000,
+                    "height" : 100
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 28,
+                  "x" : 220,
+                  "width" : 1000,
+                  "height" : 100
+                },
+                "name" : "background_copy"
+              }
+            ],
+            "id" : "8A43896E-9C16-4600-B075-C6FA08791134",
+            "visible" : true,
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 28,
+              "x" : 220,
+              "width" : 1000,
+              "height" : 100
+            },
+            "name" : "Title"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "6CEAFEC4-A7FC-4BD5-8482-AA449ABC9038",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "5AD54D8D-DBE0-4598-A01C-15D3F3008926",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-btnselectsite-5AD54D8D-DBE0-4598-A01C-15D3F3008926.png",
+                      "frame" : {
+                        "y" : 166,
+                        "x" : 270,
+                        "width" : 124,
+                        "height" : 22
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 166,
+                      "x" : 270,
+                      "width" : 124,
+                      "height" : 22
+                    },
+                    "name" : "btnselectsite"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "CFC7150C-E20A-43F0-BCC9-BA7E7BB72C5D",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-btnselectzone-CFC7150C-E20A-43F0-BCC9-BA7E7BB72C5D.png",
+                      "frame" : {
+                        "y" : 165,
+                        "x" : 416,
+                        "width" : 124,
+                        "height" : 23
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 165,
+                      "x" : 416,
+                      "width" : 124,
+                      "height" : 23
+                    },
+                    "name" : "btnselectzone"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "AC9B72A8-0033-4E61-861B-D325372BC482",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-btngranularity-AC9B72A8-0033-4E61-861B-D325372BC482.png",
+                      "frame" : {
+                        "y" : 166,
+                        "x" : 893,
+                        "width" : 124,
+                        "height" : 22
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 166,
+                      "x" : 893,
+                      "width" : 124,
+                      "height" : 22
+                    },
+                    "name" : "btngranularity"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "4ECA62C0-DF82-4425-8B24-B7AB73E525F1",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-btndatepick-4ECA62C0-DF82-4425-8B24-B7AB73E525F1.png",
+                      "frame" : {
+                        "y" : 168,
+                        "x" : 1061,
+                        "width" : 109,
+                        "height" : 17
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 168,
+                      "x" : 1061,
+                      "width" : 109,
+                      "height" : 17
+                    },
+                    "name" : "btndatepick"
+                  }
+                ],
+                "id" : "28E30854-52B0-4D59-B53E-55408E9E72E1",
+                "visible" : true,
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 165,
+                  "x" : 270,
+                  "width" : 900,
+                  "height" : 23
+                },
+                "name" : "Group"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "25811374-6465-430B-B3B5-F5B643DF463D",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-background-25811374-6465-430B-B3B5-F5B643DF463D.png",
+                  "frame" : {
+                    "y" : 128,
+                    "x" : 220,
+                    "width" : 1000,
+                    "height" : 94
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 128,
+                  "x" : 220,
+                  "width" : 1000,
+                  "height" : 94
+                },
+                "name" : "background"
+              }
+            ],
+            "image" : {
+              "path" : "images\/Layer-datatargets_copy-6CEAFEC4-A7FC-4BD5-8482-AA449ABC9038.png",
+              "frame" : {
+                "y" : 128,
+                "x" : 220,
+                "width" : 1000,
+                "height" : 94
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 128,
+              "x" : 220,
+              "width" : 1000,
+              "height" : 94
+            },
+            "name" : "datatargets_copy"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "C379C8E3-3DD8-47D0-9067-4AAABCF29F0E",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "3BB5D287-A6B4-49D6-A9AC-1E01F7CE093A",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-btnaddtag-3BB5D287-A6B4-49D6-A9AC-1E01F7CE093A.png",
+                  "frame" : {
+                    "y" : 232,
+                    "x" : 270,
+                    "width" : 30,
+                    "height" : 30
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 232,
+                  "x" : 270,
+                  "width" : 30,
+                  "height" : 30
+                },
+                "name" : "btnaddtag"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "F82AAC19-D205-4F4D-86AA-4E4BF6028BB8",
+                "visible" : false,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "63B1C669-D910-44B8-A305-474D5C48FF7D",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_2-63B1C669-D910-44B8-A305-474D5C48FF7D.png",
+                      "frame" : {
+                        "y" : 241,
+                        "x" : 768,
+                        "width" : 300,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 241,
+                      "x" : 768,
+                      "width" : 300,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_2"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "4362E2B8-C821-45A5-81F1-5E9F3130289F",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_2_Copy-4362E2B8-C821-45A5-81F1-5E9F3130289F.png",
+                      "frame" : {
+                        "y" : 241,
+                        "x" : 922,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 241,
+                      "x" : 922,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_2_Copy"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "4E83A1D5-ECD2-49B8-995E-8A90299F7AFF",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_3-4E83A1D5-ECD2-49B8-995E-8A90299F7AFF.png",
+                      "frame" : {
+                        "y" : 265,
+                        "x" : 768,
+                        "width" : 330,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 265,
+                      "x" : 768,
+                      "width" : 330,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_3"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "8B93D01F-9DD1-458A-84D8-BFC0B1CB1ED9",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_4-8B93D01F-9DD1-458A-84D8-BFC0B1CB1ED9.png",
+                      "frame" : {
+                        "y" : 265,
+                        "x" : 922,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 265,
+                      "x" : 922,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_4"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "CE660C6E-5D22-42DF-B0CC-A1B96478EC16",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_5-CE660C6E-5D22-42DF-B0CC-A1B96478EC16.png",
+                      "frame" : {
+                        "y" : 289,
+                        "x" : 768,
+                        "width" : 330,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 289,
+                      "x" : 768,
+                      "width" : 330,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_5"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "DAD48ADC-4504-4495-B4FE-69DCA455A10B",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_6-DAD48ADC-4504-4495-B4FE-69DCA455A10B.png",
+                      "frame" : {
+                        "y" : 289,
+                        "x" : 922,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 289,
+                      "x" : 922,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_6"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "0669E4A8-0381-4BBA-82E7-FA1F511F46A9",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_7-0669E4A8-0381-4BBA-82E7-FA1F511F46A9.png",
+                      "frame" : {
+                        "y" : 313,
+                        "x" : 768,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 313,
+                      "x" : 768,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_7"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "388BAB2B-703E-4590-A560-81E3AD4176B9",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_8-388BAB2B-703E-4590-A560-81E3AD4176B9.png",
+                      "frame" : {
+                        "y" : 313,
+                        "x" : 922,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 313,
+                      "x" : 922,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_8"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "FB98D097-48C5-4D8D-A834-A6DEE8DCF111",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_9-FB98D097-48C5-4D8D-A834-A6DEE8DCF111.png",
+                      "frame" : {
+                        "y" : 337,
+                        "x" : 768,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 337,
+                      "x" : 768,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_9"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "18C69AD7-51F7-442E-B1B7-21578BFF1B62",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_10-18C69AD7-51F7-442E-B1B7-21578BFF1B62.png",
+                      "frame" : {
+                        "y" : 337,
+                        "x" : 922,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 337,
+                      "x" : 922,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_10"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "6FF867B6-13CB-487F-BC85-E1130284B616",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_11-6FF867B6-13CB-487F-BC85-E1130284B616.png",
+                      "frame" : {
+                        "y" : 361,
+                        "x" : 768,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 361,
+                      "x" : 768,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_11"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "B25D2BA4-A0CB-4A17-BA0E-EF3DAB19FBD7",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Rectangle_1324_Copy_6__All_Zones_Copy_12-B25D2BA4-A0CB-4A17-BA0E-EF3DAB19FBD7.png",
+                      "frame" : {
+                        "y" : 361,
+                        "x" : 922,
+                        "width" : 274,
+                        "height" : 214
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 361,
+                      "x" : 922,
+                      "width" : 274,
+                      "height" : 214
+                    },
+                    "name" : "Rectangle_1324_Copy_6__All_Zones_Copy_12"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "E5234BFD-F2DF-45B8-912E-51CB1068AAC2",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-icon_copy-E5234BFD-F2DF-45B8-912E-51CB1068AAC2.png",
+                      "frame" : {
+                        "y" : 237,
+                        "x" : 609,
+                        "width" : 221,
+                        "height" : 221
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 237,
+                      "x" : 609,
+                      "width" : 221,
+                      "height" : 221
+                    },
+                    "name" : "icon_copy"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-ddcompare_copy-F82AAC19-D205-4F4D-86AA-4E4BF6028BB8.png",
+                  "frame" : {
+                    "y" : 167,
+                    "x" : 120,
+                    "width" : 1200,
+                    "height" : 459
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 167,
+                  "x" : 120,
+                  "width" : 1200,
+                  "height" : 459
+                },
+                "name" : "ddcompare_copy"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "3EFBDB0D-D881-4067-B960-5873397AFFE8",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-comptag_copy-3EFBDB0D-D881-4067-B960-5873397AFFE8.png",
+                  "frame" : {
+                    "y" : 232,
+                    "x" : 467,
+                    "width" : 137,
+                    "height" : 30
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 232,
+                  "x" : 467,
+                  "width" : 137,
+                  "height" : 30
+                },
+                "name" : "comptag_copy"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "B1BC8AEC-42C5-4683-AD13-F3F79F4105F1",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-comptag-B1BC8AEC-42C5-4683-AD13-F3F79F4105F1.png",
+                  "frame" : {
+                    "y" : 232,
+                    "x" : 320,
+                    "width" : 137,
+                    "height" : 30
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 232,
+                  "x" : 320,
+                  "width" : 137,
+                  "height" : 30
+                },
+                "name" : "comptag"
+              }
+            ],
+            "image" : {
+              "path" : "images\/Layer-datacomparisons-C379C8E3-3DD8-47D0-9067-4AAABCF29F0E.png",
+              "frame" : {
+                "y" : 222,
+                "x" : 220,
+                "width" : 1000,
+                "height" : 50
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 222,
+              "x" : 220,
+              "width" : 1000,
+              "height" : 50
+            },
+            "name" : "datacomparisons"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "A4BBD4D1-0D1F-4AE2-9E61-99987E1CC749",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/Layer-content-A4BBD4D1-0D1F-4AE2-9E61-99987E1CC749.png",
+              "frame" : {
+                "y" : 272,
+                "x" : 220,
+                "width" : 1000,
+                "height" : 400
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 272,
+              "x" : 220,
+              "width" : 1000,
+              "height" : 400
+            },
+            "name" : "content"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "A6760E3C-08DA-4C6F-B997-C27DE950A542",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "7BB7E8E8-7738-44BE-8C1A-C64EC9F94DB2",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "09388118-4178-4CFD-9A15-FC0D6A0AD70F",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Visits__btnarrow_copy-09388118-4178-4CFD-9A15-FC0D6A0AD70F.png",
+                      "frame" : {
+                        "y" : 715,
+                        "x" : 303,
+                        "width" : 85,
+                        "height" : 12
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 715,
+                      "x" : 303,
+                      "width" : 85,
+                      "height" : 12
+                    },
+                    "name" : "Visits__btnarrow_copy"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-ZonesPVist-7BB7E8E8-7738-44BE-8C1A-C64EC9F94DB2.png",
+                  "frame" : {
+                    "y" : 715,
+                    "x" : 284,
+                    "width" : 121,
+                    "height" : 115
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 715,
+                  "x" : 284,
+                  "width" : 121,
+                  "height" : 115
+                },
+                "name" : "ZonesPVist"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "59CE3B9C-A837-4B97-8EAE-16113AC394C6",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "5A8950E5-BA57-4095-AB12-A58E8B4027B1",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Visits__btnarrow_copy_4-5A8950E5-BA57-4095-AB12-A58E8B4027B1.png",
+                      "frame" : {
+                        "y" : 716,
+                        "x" : 571,
+                        "width" : 49,
+                        "height" : 11
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 716,
+                      "x" : 571,
+                      "width" : 49,
+                      "height" : 11
+                    },
+                    "name" : "Visits__btnarrow_copy_4"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-TotalVisits-59CE3B9C-A837-4B97-8EAE-16113AC394C6.png",
+                  "frame" : {
+                    "y" : 716,
+                    "x" : 534,
+                    "width" : 121,
+                    "height" : 114
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 716,
+                  "x" : 534,
+                  "width" : 121,
+                  "height" : 114
+                },
+                "name" : "TotalVisits"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "A3604158-8871-45F6-BA17-6CA527840DB5",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "D6A032D7-AFBD-4FBE-AD37-5DCC817AB597",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Visits__btnarrow_copy_5-D6A032D7-AFBD-4FBE-AD37-5DCC817AB597.png",
+                      "frame" : {
+                        "y" : 716,
+                        "x" : 779,
+                        "width" : 131,
+                        "height" : 13
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 716,
+                      "x" : 779,
+                      "width" : 131,
+                      "height" : 13
+                    },
+                    "name" : "Visits__btnarrow_copy_5"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-AvgVisitDuration-A3604158-8871-45F6-BA17-6CA527840DB5.png",
+                  "frame" : {
+                    "y" : 716,
+                    "x" : 779,
+                    "width" : 131,
+                    "height" : 114
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 716,
+                  "x" : 779,
+                  "width" : 131,
+                  "height" : 114
+                },
+                "name" : "AvgVisitDuration"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "82DB8368-6729-4579-848F-456DA330DF4D",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "5F01B164-8BC2-4FC9-B006-038B594827BD",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Visits__btnarrow_copy_6-5F01B164-8BC2-4FC9-B006-038B594827BD.png",
+                      "frame" : {
+                        "y" : 715,
+                        "x" : 1047,
+                        "width" : 98,
+                        "height" : 12
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 715,
+                      "x" : 1047,
+                      "width" : 98,
+                      "height" : 12
+                    },
+                    "name" : "Visits__btnarrow_copy_6"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-PerNewVisits-82DB8368-6729-4579-848F-456DA330DF4D.png",
+                  "frame" : {
+                    "y" : 715,
+                    "x" : 1034,
+                    "width" : 121,
+                    "height" : 115
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 715,
+                  "x" : 1034,
+                  "width" : 121,
+                  "height" : 115
+                },
+                "name" : "PerNewVisits"
+              }
+            ],
+            "image" : {
+              "path" : "images\/Layer-minidashboard-A6760E3C-08DA-4C6F-B997-C27DE950A542.png",
+              "frame" : {
+                "y" : 672,
+                "x" : 220,
+                "width" : 1000,
+                "height" : 200
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 672,
+              "x" : 220,
+              "width" : 1000,
+              "height" : 200
+            },
+            "name" : "minidashboard"
+          }
+        ],
+        "id" : "91BE68A0-992F-4274-BED7-A5C1F28AE8DD",
+        "visible" : true,
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 28,
+          "x" : 220,
+          "width" : 1000,
+          "height" : 844
+        },
+        "name" : "Group"
+      }
+    ],
+    "id" : "9EB6455E-873F-4260-B663-8DFBC1D39C37",
+    "visible" : true,
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 1440,
+      "height" : 900
+    },
+    "name" : "Desktop_HD"
+  }
+]
