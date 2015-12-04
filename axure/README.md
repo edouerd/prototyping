@@ -1,14 +1,8 @@
-Axure
+Axure prototyping
 
 —
 
-Projects
+Table of Contents
 
-1. Cards — IDSA Product Design Methodology redesign.
-2. Vs — Testing prototype for Virtual Studio project.
-
-—
-
-It's not the greatest, but it serves a purpose (sometimes).
-
-Older projects will probably be archived here.
+1. [PI Rules](https://pages.github.ibm.com/eaurcade/prototyping/axure/20150604-pi-demo-rules/rules-list.html)
+2. [PI Demo](https://pages.github.ibm.com/eaurcade/prototyping/axure/20150609-pi-demo/login.html)
