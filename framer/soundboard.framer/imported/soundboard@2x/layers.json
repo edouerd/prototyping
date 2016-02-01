@@ -1,0 +1,318 @@
+[
+    {
+        "children": [], 
+        "id": "EED3B67A-61FB-4BBE-AA93-195376504DFA", 
+        "image": {
+            "frame": {
+                "height": 400, 
+                "width": 401, 
+                "x": 92, 
+                "y": 767
+            }, 
+            "path": "images/Layer-yellow-EED3B67A-61FB-4BBE-AA93-195376504DFA.png"
+        }, 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 400, 
+            "width": 401, 
+            "x": 92, 
+            "y": 767
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "yellow", 
+        "visible": true
+    }, 
+    {
+        "children": [], 
+        "id": "DEDCDE80-E2C7-411E-BB9B-14C0A48E71C7", 
+        "image": {
+            "frame": {
+                "height": 320, 
+                "width": 335, 
+                "x": 320, 
+                "y": 393
+            }, 
+            "path": "images/Layer-blue-DEDCDE80-E2C7-411E-BB9B-14C0A48E71C7.png"
+        }, 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 320, 
+            "width": 335, 
+            "x": 320, 
+            "y": 393
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "blue", 
+        "visible": true
+    }, 
+    {
+        "children": [], 
+        "id": "81EE287D-4725-4C08-9394-3DD6DB9A1293", 
+        "image": {
+            "frame": {
+                "height": 207, 
+                "width": 207, 
+                "x": 135, 
+                "y": 88
+            }, 
+            "path": "images/Layer-red-81EE287D-4725-4C08-9394-3DD6DB9A1293.png"
+        }, 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 207, 
+            "width": 207, 
+            "x": 135, 
+            "y": 88
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "red", 
+        "visible": true
+    }, 
+    {
+        "children": [], 
+        "id": "C483BEEF-758E-4D2F-A112-62223744676F", 
+        "image": {
+            "frame": {
+                "height": 86, 
+                "width": 227, 
+                "x": 428, 
+                "y": 924
+            }, 
+            "path": "images/Layer-summon-C483BEEF-758E-4D2F-A112-62223744676F.png"
+        }, 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 86, 
+            "width": 227, 
+            "x": 428, 
+            "y": 924
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "summon", 
+        "visible": true
+    }, 
+    {
+        "children": [], 
+        "id": "5C603200-9E46-4975-92A8-FDE3EA1A8031", 
+        "image": {
+            "frame": {
+                "height": 310, 
+                "width": 650, 
+                "x": 61, 
+                "y": -325
+            }, 
+            "path": "images/Layer-notification-5C603200-9E46-4975-92A8-FDE3EA1A8031.png"
+        }, 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 310, 
+            "width": 650, 
+            "x": 61, 
+            "y": -325
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "notification", 
+        "visible": true
+    }, 
+    {
+        "children": [
+            {
+                "children": [], 
+                "id": "4519E1E1-10D2-4018-AFA5-4A73E435A2AD", 
+                "image": {
+                    "frame": {
+                        "height": 100, 
+                        "width": 100, 
+                        "x": 1429, 
+                        "y": -351
+                    }, 
+                    "path": "images/Layer-MorningsRed-4519E1E1-10D2-4018-AFA5-4A73E435A2AD.png"
+                }, 
+                "imageType": "png", 
+                "kind": "group", 
+                "layerFrame": {
+                    "height": 100, 
+                    "width": 100, 
+                    "x": 1429, 
+                    "y": -351
+                }, 
+                "maskFrame": null, 
+                "metadata": {
+                    "opacity": 1
+                }, 
+                "name": "MorningsRed", 
+                "visible": true
+            }, 
+            {
+                "children": [], 
+                "id": "DA7EDC3E-6A1F-4D6B-B922-16D9ECAF0F8C", 
+                "image": {
+                    "frame": {
+                        "height": 100, 
+                        "width": 100, 
+                        "x": 1229, 
+                        "y": -351
+                    }, 
+                    "path": "images/Layer-MorningsBlack-DA7EDC3E-6A1F-4D6B-B922-16D9ECAF0F8C.png"
+                }, 
+                "imageType": "png", 
+                "kind": "group", 
+                "layerFrame": {
+                    "height": 100, 
+                    "width": 100, 
+                    "x": 1229, 
+                    "y": -351
+                }, 
+                "maskFrame": null, 
+                "metadata": {
+                    "opacity": 1
+                }, 
+                "name": "MorningsBlack", 
+                "visible": true
+            }, 
+            {
+                "children": [], 
+                "id": "D08EC856-E508-4E5C-AC46-58F362E35249", 
+                "image": {
+                    "frame": {
+                        "height": 100, 
+                        "width": 100, 
+                        "x": 1629, 
+                        "y": -351
+                    }, 
+                    "path": "images/Layer-MorningsGreen-D08EC856-E508-4E5C-AC46-58F362E35249.png"
+                }, 
+                "imageType": "png", 
+                "kind": "group", 
+                "layerFrame": {
+                    "height": 100, 
+                    "width": 100, 
+                    "x": 1629, 
+                    "y": -351
+                }, 
+                "maskFrame": null, 
+                "metadata": {
+                    "opacity": 1
+                }, 
+                "name": "MorningsGreen", 
+                "visible": true
+            }, 
+            {
+                "children": [], 
+                "id": "1D94D314-3314-4069-8D68-7F0D1B317F3C", 
+                "image": {
+                    "frame": {
+                        "height": 100, 
+                        "width": 100, 
+                        "x": 1529, 
+                        "y": -351
+                    }, 
+                    "path": "images/Layer-MorningsYellow-1D94D314-3314-4069-8D68-7F0D1B317F3C.png"
+                }, 
+                "imageType": "png", 
+                "kind": "group", 
+                "layerFrame": {
+                    "height": 100, 
+                    "width": 100, 
+                    "x": 1529, 
+                    "y": -351
+                }, 
+                "maskFrame": null, 
+                "metadata": {
+                    "opacity": 1
+                }, 
+                "name": "MorningsYellow", 
+                "visible": true
+            }, 
+            {
+                "children": [], 
+                "id": "4DA87770-B31D-4414-9E4F-D8EE909BD3CA", 
+                "image": {
+                    "frame": {
+                        "height": 100, 
+                        "width": 100, 
+                        "x": 1329, 
+                        "y": -351
+                    }, 
+                    "path": "images/Layer-MorningsBlue-4DA87770-B31D-4414-9E4F-D8EE909BD3CA.png"
+                }, 
+                "imageType": "png", 
+                "kind": "group", 
+                "layerFrame": {
+                    "height": 100, 
+                    "width": 100, 
+                    "x": 1329, 
+                    "y": -351
+                }, 
+                "maskFrame": null, 
+                "metadata": {
+                    "opacity": 1
+                }, 
+                "name": "MorningsBlue", 
+                "visible": true
+            }
+        ], 
+        "id": "68A5118E-B432-4BF4-A26B-DDF18BAE9170", 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 100, 
+            "width": 500, 
+            "x": 1229, 
+            "y": -351
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "Colors", 
+        "visible": true
+    }, 
+    {
+        "children": [], 
+        "id": "4BDADE9D-4CD6-4D17-A8F0-3663CBF7D4D7", 
+        "image": {
+            "frame": {
+                "height": 100, 
+                "width": 500, 
+                "x": 1229, 
+                "y": -251
+            }, 
+            "path": "images/Layer-ColorsMute-4BDADE9D-4CD6-4D17-A8F0-3663CBF7D4D7.png"
+        }, 
+        "imageType": "png", 
+        "kind": "group", 
+        "layerFrame": {
+            "height": 100, 
+            "width": 500, 
+            "x": 1229, 
+            "y": -251
+        }, 
+        "maskFrame": null, 
+        "metadata": {
+            "opacity": 1
+        }, 
+        "name": "ColorsMute", 
+        "visible": true
+    }
+]

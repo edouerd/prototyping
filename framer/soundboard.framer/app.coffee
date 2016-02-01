@@ -1,3 +1,6 @@
+# Import file "soundboard" (sizes and positions are scaled 1:2)
+sketch = Framer.Importer.load("imported/soundboard@2x")
+
 # Import module
 tabBarModule = require "tabs"
 {UISound} = require "uisound"
