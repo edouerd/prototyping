@@ -617,11 +617,11 @@ window.__imported__["soundboard/layers.json.js"] = [
 ]
 
 if (typeof(DeviceComponent) !== "undefined") {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};
-window.Framer.Defaults.DeviceView = {"deviceScale":-1,"selectedHand":"","deviceType":"iphone-6-spacegray","contentScale":1,"orientation":0};
+window.Framer.Defaults.DeviceView = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-6s-space-gray","contentScale":1,"orientation":0};
 
-window.Framer.Defaults.DeviceComponent = {"deviceScale":-1,"selectedHand":"","deviceType":"iphone-6-spacegray","contentScale":1,"orientation":0};
+window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-6s-space-gray","contentScale":1,"orientation":0};
 
-window.FramerStudioInfo = {"deviceImagesUrl":"\/\/resources.framerjs.com\/static\/DeviceResources","documentTitle":"soundboard.framer"};
+window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"soundboard-update.framer"};
 
 Framer.Device = new Framer.DeviceView();
 Framer.Device.setupContext();
